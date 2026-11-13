@@ -1,0 +1,11 @@
+{
+  "title": "PullUp AI",
+  "description": "Helps gym members record pull-up sets and get instant visual form feedback, rep counts, and practical technique tips to improve every workout.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
